@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\bin\Debug\MazeImageSolver.exe.config
+C:\Users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\bin\Debug\MazeImageSolver.exe
+C:\Users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\bin\Debug\MazeImageSolver.pdb
+C:\Users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\obj\Debug\MazeImageSolver.csprojResolveAssemblyReference.cache
+C:\Users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\obj\Debug\MazeImageSolver.exe
+C:\Users\kevin\documents\visual studio 2015\Projects\MazeImageSolver\MazeImageSolver\obj\Debug\MazeImageSolver.pdb
